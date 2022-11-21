@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **the Rust language**
 
-- 👨‍💻 All of my projects are available at [[portfolio link]]([portfolio link])
-
 - 📫 How to reach me **dawsonchatfield@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing](https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing)
