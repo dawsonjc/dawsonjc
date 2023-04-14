@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dawsonchatfield@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing](https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing]([https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing](https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
