@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawson Chatfield</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on [ReefDog](https://github.com/Reef-Dog/ReefDog) and [TheBrewery](https://github.com/dawsonjc/TheBrewery)
-
-- 🌱 I’m currently learning **the Rust language**
-
 - 📫 How to reach me **dawsonchatfield@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing](https://docs.google.com/document/d/1qfpnzmKUYqiVkkal1zOPFXn5GSTJD1uNEydVZy9s5ho/edit?usp=sharing)
